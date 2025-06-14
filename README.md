@@ -9,7 +9,6 @@ A virtual paint application built using **OpenCV** and **MediaPipe**, allowing u
 -  Multiple color choices: **Blue**, **Green**, **Red**, **Yellow**  
 -  Erase canvas with the **CLEAR** button  
 -  Real-time hand tracking using **MediaPipe**  
--  Finger pinch detection to switch drawing strokes  
 -  Save your artwork by pressing the `s` key  
 
 ## 🛠️ Tech Stack
